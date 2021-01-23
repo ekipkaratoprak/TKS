@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PD_Projesi", "PD_Projesi\PD_Projesi.csproj", "{E0042C8B-D133-4901-AC46-1600A9D6B5F0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Tez Kontrol Sistemi Setup", "Tez Kontrol Sistemi Setup\Tez Kontrol Sistemi Setup.vdproj", "{867E36B7-4057-416E-BDE3-051F17737B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0042C8B-D133-4901-AC46-1600A9D6B5F0}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E0042C8B-D133-4901-AC46-1600A9D6B5F0}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E0042C8B-D133-4901-AC46-1600A9D6B5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0042C8B-D133-4901-AC46-1600A9D6B5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867E36B7-4057-416E-BDE3-051F17737B01}.Debug|Any CPU.ActiveCfg = Debug
+		{867E36B7-4057-416E-BDE3-051F17737B01}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E81AD35E-4198-4E1A-B163-414B454E2311}
+	EndGlobalSection
+EndGlobal
